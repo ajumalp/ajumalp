@@ -17,7 +17,7 @@ Visit my website [Erratum Solutions](https://erratums.com)
 - Android Apps [Smart Home](https://play.google.com/store/apps/details?id=com.es.sa)
 - PWA Web apps [Online store](https://store.calicutgrocers.com/)
 - Raspberry Pi, [Arduino](https://create.arduino.cc/projecthub/ajumalp)
-
+<!--
 ### Languages and Tools
 |Languages and Tools|Experiance|Details|
 |-|-|-|
@@ -28,3 +28,4 @@ Visit my website [Erratum Solutions](https://erratums.com)
 |Lazarus|3 Years|Windows, Ubuntu, Rasbian|
 |Electronics|Hobby|8051, Arduino, ESP8266, Raspberry Pi|
 |TFS/Agail/Scrum|5 Years|
+-->
