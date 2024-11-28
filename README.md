@@ -1,23 +1,24 @@
 ### Hi there 👋
 
+<!-- 
 Visit my website [Erratum Solutions](https://erratums.com)
 
 - 🔭 I’m currently working on [Integrated Management System](https://ims.erratums.com)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 📫 How to reach me: [ajmal@erratums.com](mailto:ajmal@erratums.com)
-<!-- 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### Things I Can Do
 - Desktop Apps [sample code](https://github.com/ajumalp/Launcher)
 - Android Apps [Smart Home](https://play.google.com/store/apps/details?id=com.es.sa)
 - PWA Web apps [Online store](https://store.calicutgrocers.com/)
 - Raspberry Pi, [Arduino](https://create.arduino.cc/projecthub/ajumalp)
-<!--
+
 ### Languages and Tools
 |Languages and Tools|Experiance|Details|
 |-|-|-|
